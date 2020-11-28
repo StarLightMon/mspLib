@@ -36,7 +36,7 @@ Login Result = await mspClient.Login("Username", "Password");
 
 if(!Result.LoggedIn)
    return;
-
+Username: StarLightMoøn starcoins= 100,000
 PictureBox.Image = Result.Image.Thumbnail;
 PictureBox.Load(Result.Image.ThumbnailUrl);
 ```
