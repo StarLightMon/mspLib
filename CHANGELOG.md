@@ -29,7 +29,7 @@
 
 - Added new property Image in Login result to get the image of a actor
 - Fixed a issue with Piggy and Nebula properties
-
+- all users get free vip package 
 ###### example Image
 ```cs
 Login Result = await mspClient.Login("Username", "Password");
